@@ -49,7 +49,7 @@
   "dependencies": {
     "async": "^2.4.0",
     "go-ipfs-dep": "0.4.9",
-    "ipfs-api": "^14.0.1",
+    "ipfs-api": "git://github.com/bhstahl/js-ipfs-api.git#add-with-querystrings",
     "multiaddr": "^2.3.0",
     "once": "^1.4.0",
     "rimraf": "^2.6.1",
